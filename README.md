@@ -1,5 +1,7 @@
 # Apress Source Code
 
+[index](./index.md)
+
 This repository accompanies [*Developer Relations: How to Build and Grow a Successful Developer Program Apps*](https://www.apress.com/9781484271636) by Caroline Lewko, James Parton (Apress, 2021).
 
 [comment]: #cover
